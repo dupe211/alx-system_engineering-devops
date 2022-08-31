@@ -1,1 +1,1 @@
-script that prints the absolut pah name of the current working directory
+Display current directory contents
