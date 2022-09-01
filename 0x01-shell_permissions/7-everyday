@@ -1,1 +1,3 @@
-chmod +111 hello
+#!/bin/bash
+ugo+x hello
+
